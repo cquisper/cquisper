@@ -1,6 +1,19 @@
-### Hola, soy Cristhian🤟
+<div>
+    <h3> Hola, Soy Cristhian 🤟</h3>
+    <ul>
+        <li>Estudiante de ingenieria en computacion y sistemas🎓</li>
+        <li>Autodidacta y con ganas de aprender nuevas tecnologias📚💻</li>
+    </ul>    
+</div>
+
+<h4>Lenguajes que uso: </h4>
+![Java]()
+
+
+
+
+
 <div aling="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cquisper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cquisper&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
