@@ -7,7 +7,8 @@
 </div>
 
 <h4>Lenguajes que uso: </h4>
-![Java]()
+
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=white)
 
 
 
