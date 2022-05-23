@@ -9,8 +9,7 @@
 <h4>Lenguajes que uso: </h4>
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=white)
-
-
+ ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
 
 
 
