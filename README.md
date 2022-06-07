@@ -1,8 +1,8 @@
 <div>
     <h3> Hola, Soy Cristhian 🤟</h3>
     <ul>
-        <li>Estudiante de ingenieria en computacion y sistemas🎓</li>
-        <li>Autodidacta y con ganas de aprender nuevas tecnologias📚💻</li>
+        <li>Estudiante de ingeniería en computación y sistemas🎓</li>
+        <li>Autodidacta y con ganas de aprender nuevas tecnologías📚💻</li>
     </ul>    
 </div>
 
