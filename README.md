@@ -1,5 +1,5 @@
 <div>
-    <h3> Hola, Soy Cristhian 🤟</h3>
+    <h3> Hola, Soy Cristhian 🤙</h3>
     <ul>
         <li>Estudiante de ingeniería en computación y sistemas🎓</li>
         <li>Autodidacta y con ganas de aprender nuevas tecnologías📚💻</li>
