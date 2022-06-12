@@ -6,7 +6,7 @@
     </ul>    
 </div>
 
-<h4>Lenguajes que uso</h4>
+<h4>Lenguajes De Conocimiento</h4>
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=ED8B00)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
