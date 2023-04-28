@@ -1,8 +1,9 @@
 <div>
-    <h3> Hola, Soy Cristhian 🤙</h3>
+    <h3> Hola, Soy Cristhian</h3>
     <ul>
-        <li>Estudiante de ingeniería en computación y sistemas🎓</li>
-        <li>Autodidacta y con ganas de aprender nuevas tecnologías📚💻</li>
+        <li>
+            Estoy constantemente buscando nuevas oportunidades para aprender y expandir mi conjunto de habilidades. Actualmente, me estoy enfocando en el desarrollo BackEnd con Java y su framework Spring, y también estoy interesado en aprender sobre el desarrollo de aplicaciones móviles y la inteligencia artificial. Aunque todavía no llevo mucho tiempo en el manejo de estas tecnologicas, estoy emocionado por la oportunidad de crecer y mejorar mis habilidades en estas áreas📚💻
+        </li>
     </ul>    
 </div>
 
@@ -11,18 +12,17 @@
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=ED8B00)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
-![CSS](https://img.shields.io/badge/CSS-000000?&style=flat&logo=css3&logoColor=1572B6)
-![HTML](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26)
 
 <h4>Conocimientos sobre SGBD</h4>
 
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=4EA94B)
 
 <h4>👩‍💻 IDE's</h4>
 
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![ApacheNetbeans](https://img.shields.io/badge/apache%20netbeans-000000?style=flat&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)
+![ApacheNetbeans](https://img.shields.io/badge/Apache%20Netbeans-000000?style=flat&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)
 
 <div aling="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cquisper&layout=compact&langs_count=7&theme=dark"/>
