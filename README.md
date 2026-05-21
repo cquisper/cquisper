@@ -1,32 +1,42 @@
-<div>
-    <h3> Hola, Soy Cristhian</h3>
-    <ul>
-        <li>
-            Estoy constantemente buscando nuevas oportunidades para aprender y expandir mi conjunto de habilidades. Actualmente, me estoy enfocando en el desarrollo BackEnd con Java y su framework Spring, y también estoy interesado en aprender sobre el desarrollo de aplicaciones móviles y la inteligencia artificial. Aunque todavía no llevo mucho tiempo en el manejo de estas tecnologicas, estoy emocionado por la oportunidad de crecer y mejorar mis habilidades en estas áreas📚💻
-        </li>
-    </ul>    
-</div>
+<h2>Hola, soy Cristhian 👋</h2>
 
-<h4>Lenguajes De Conocimiento</h4>
+<p>
+Java Software Developer enfocado en el desarrollo backend con Java y Spring Framework.
+Cuento con experiencia construyendo y manteniendo software empresarial en producción,
+participando en la evolución de arquitecturas monolíticas hacia microservicios aplicando
+Clean Architecture, Arquitectura Hexagonal y principios SOLID.
+</p>
+
+<p>
+Interesado en arquitectura de software, sistemas distribuidos, seguridad de aplicaciones
+y buenas prácticas de ingeniería de software.
+</p>
+
+<h3>🚀 Tecnologías</h3>
+
+<h4>Backend</h4>
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-000000?style=flat&logo=springsecurity)
+![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=flat&logo=hibernate)
 
-<h4>Conocimientos sobre SGBD</h4>
+<h4>Base de Datos</h4>
 
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=4EA94B)
 
-<h4>👩‍💻 IDE's</h4>
+<h4>DevOps & Herramientas</h4>
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
+![GitLab](https://img.shields.io/badge/GitLab-000000?style=flat&logo=gitlab)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat&logo=redis)
+
+<h4>IDEs</h4>
 
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![ApacheNetbeans](https://img.shields.io/badge/Apache%20Netbeans-000000?style=flat&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)
-
-<div aling="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cquisper&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <!--
 **cquisper/cquisper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,4 +52,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### :)
